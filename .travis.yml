@@ -9,5 +9,5 @@ deploy:
   app:
     master: rails-base-app
   on:
-    repo: rocketmobile/rails_base_app
+    repo: rocketmobile/eprothro-web
   strategy: git

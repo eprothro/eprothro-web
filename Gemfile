@@ -51,7 +51,7 @@ gem "pg",                       "~> 0.17"
 
 # # Workers
 # # Process long jobs asyncronously from the rails web process.
-# # https://github.com/rocketmobile/rails_base_app/wiki/Process-long-running-jobs-asynchronously
+# # https://github.com/rocketmobile/eprothro-web/wiki/Process-long-running-jobs-asynchronously
 # gem "httparty",                 "~> 0.12"                      # make requests to slow clients in async workers
 # gem "sidekiq",                  "~> 2.17"
 # gem "sidekiq-failures",         "~> 0.3"

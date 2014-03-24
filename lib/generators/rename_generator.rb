@@ -1,6 +1,6 @@
 class RenameGenerator <  Rails::Generators::Base
-  desc "This generator 'renames' a rails_base_app application"
-  argument :new_name, :type => :string, :default => "rails_base_app"
+  desc "This generator 'renames' a eprothro-web application"
+  argument :new_name, :type => :string, :default => "eprothro-web"
 
   def rename_application
     old_name = "#{Rails.application.class.parent}"

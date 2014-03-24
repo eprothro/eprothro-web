@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-RailsBaseApp::Application.config.secret_key_base = 'c89ae02e9ff32e9c4710629d8554258e7bcce773ca40945e2eebc154c7ecbb5ae57af0ef4506cfd0f72870821c0469a286a362ad4caeb5c77bc5330b97833fec'
+EprothroWeb::Application.config.secret_key_base = 'KloPhSuNakruZEDpDi2qXqxBZkAKIKUvqNJRc3AoH5lOaum9Wd11eb8Kis9rTy8yUKprbAiFOSEWx6BIqam+2DI8YQyTSpnScHS/Tj7v0D+IG2U4/gKwbXfjXevKLOR738Xyg5OgwANNv+RtseO8CwANFPiJCqTKDnilhvaiLvo='

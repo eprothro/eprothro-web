@@ -1,6 +1,6 @@
 require 'constraints/production_path_constraint'
 
-RailsBaseApp::Application.routes.draw do
+EprothroWeb::Application.routes.draw do
 
   root :to => 'pages#home'
 
